@@ -24,8 +24,8 @@ This project uses data sourced from Mountain Project to explore the available ro
 
 **Format as number** for Avg Rating to one decimal point.
 
-Removed rows with routes under 20ft. 
-Removed Bouldering routes not listed concurrently with Sport, TR, or Trad. 
-~~Moved Boulder routes and ratings to a separate sheet.~~ Lost upon program crash (along with data cleaning comments). 
+- Removed rows with routes under 20ft. 
+- Removed Bouldering routes not listed concurrently with Sport, TR, or Trad. 
+- ~~Moved Boulder routes and ratings to a separate sheet.~~ Lost upon program crash (along with data cleaning comments). 
 
 
