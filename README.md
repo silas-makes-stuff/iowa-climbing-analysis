@@ -31,6 +31,4 @@ Note - I had initially kept track of data cleaning and changes using comments. T
 ### Grade Conversions
 I used **VLOOKUP()** to convert grades from the Yosemite Decimal System to the [IRCRA recommended universal scale](https://www.ircra.rocks/single-post/2016/09/12/reporting-grades-in-climbing-research). This eliminated issues with analyzing grades with subdivisions (i.e. 5.10c or 5.8+)
 
-Grade	IRCA Conversion Value
-![image](https://github.com/user-attachments/assets/a307cd04-3e08-4fd4-bafc-dfdb2b93a505)
-
+![image](https://github.com/user-attachments/assets/2fcf326c-2ae1-407e-b16c-4a38eecd3c9b)
