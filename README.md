@@ -30,28 +30,5 @@ This project uses data sourced from Mountain Project to explore the available ro
 I used **VLOOKUP()** to convert grades from the Yosemite Decimal System to the IRCRA recommended universal scale. This eliminated issues with analyzing grades with subdivisions (i.e. 5.10c or 5.8+)
 
 Grade	IRCA Conversion Value
-5.7	7
-5.7+	7
-5.8-	8
-5.8	8
-5.8+	8
-5.9-	9
-5.9	9
-5.9+	9
-5.10	10
-5.10-	10
-5.10a	10
-5.10a/b	11
-5.10b	11
-5.10c	12
-5.10d	13
-5.11-	14
-5.11	14
-5.11a	14
-5.11a/b	15
-5.11b	15
-5.11b/c	16
-5.11c	16
-5.11d	17
 ![image](https://github.com/user-attachments/assets/a307cd04-3e08-4fd4-bafc-dfdb2b93a505)
 
