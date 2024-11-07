@@ -3,12 +3,11 @@
 ## Overview and Problem Statement
 This project uses data sourced from Mountain Project to explore the available rock climbing routes in Iowa, their types, subtypes, wall locations, safety ratings, and average climber reviews. Following preliminary data analysis, I examined...
 
-1. What is the average rating of all climbing routes in Iowa? What type of routes (sport, trad, TR) are rated most highly? Which are rated least highly?
-2. What is the average difficulty rating of climbs in Iowa? How many high quality routes are available for new, intermediate, and experienced climbers?
-3. Which Geographic Location has the highest concentration of highly rated climbs? Which location would be best for new, intermediate, and experienced climbers?
+1. What are the average quality and difficulty ratings of routes by location? What are the average quality and difficulty ratings by type of route (sport, trad, TR)?
+2. Where is the best location for beginner, intermediate, and advanced climbers to find the most amount of high quality routes? At which climbing walls are they located?
 
 ## Cleaning and Refining
-Note - I had initially kept track of data cleaning and changes using comments. These were deleted when program crashed, along with sheet containing extracted bouldering data. 
+Note - I had initially kept track of data cleaning and changes using comments. These were deleted when program crashed, along with sheet containing extracted bouldering data. Lesson learned! In the future I will be keeping a separate copy of cleaning/refinding notes.
 
 ### Blanks, Duplicates, Spaces, Formatting
 - **Filter tool** for blank cells and removed rows with missing data.
