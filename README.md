@@ -33,17 +33,6 @@ Note - I had initially kept track of data cleaning and changes using comments. T
 ![image](https://github.com/user-attachments/assets/2fcf326c-2ae1-407e-b16c-4a38eecd3c9b)
 
 # Exploratory Data Analysis (EDA)
-Total Routes	138
-Avg Star Rating	2.8
-Avg Difficulty Rating	11
-Max Difficulty Rating	17
-Min Difficulty Rating	7
-Median Difficulty Rating	10
-Mode Difficulty Rating	10
-Max Star Rating	4
-Min Star Rating	-1
-Median Star Rating	2.8
-Mode Star Rating	3
 ![image](https://github.com/user-attachments/assets/0146cb02-6fda-4416-8d65-0af41a56ed79)
 
 
