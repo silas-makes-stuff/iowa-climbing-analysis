@@ -35,4 +35,6 @@ Note - I had initially kept track of data cleaning and changes using comments. T
 # Exploratory Data Analysis (EDA)
 ![image](https://github.com/user-attachments/assets/0146cb02-6fda-4416-8d65-0af41a56ed79) 
 
+![image](https://github.com/user-attachments/assets/c5ccd7f1-26a4-4588-b363-aa07c5690efc)
+
 
