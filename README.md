@@ -32,12 +32,28 @@ Data cleaning, data visualization, Exploratory data analysis (EDA)
 - Removed Bouldering routes not listed concurrently with Sport, TR, or Trad.
 -    Moved bouldering routes and ratings to separate sheet (lost during program crash).
 
-![image](https://github.com/user-attachments/assets/2fcf326c-2ae1-407e-b16c-4a38eecd3c9b)
-
 # Exploratory Data Analysis (EDA)
-I started with a general EDA of the key components of the data. Results are as follows:
-![image](https://github.com/user-attachments/assets/0146cb02-6fda-4416-8d65-0af41a56ed79) 
 
-![image](https://github.com/user-attachments/assets/3b34fc23-6ea0-4bf0-a913-ebc489f39a18)
+## Overall
+- EDA revealed 138 routes across Iowa, 85 sport, 30 trad, and 23 TR.
+- Average route quality rating was 2.8/5 stars, with ratings ranging from -1/5 stars to 4/5 stars.
+-   Calculated Z-Value to determine outliers, removed -1/5 as an outlier.
+- Average IRCRA difficulty rating was 10.8 (5.10b), with ratings ranging from 7 (5.7) to 17 (5.11d).
+- Average route height was 41ft.
+- ANOVA revealed a statistically significant relationship between Route Quality and Route Difficulty (p = 0.0066), although the model explains only a small portion of the variance (R² = 0.053). The coefficients for the model are estimated with 95% confidence intervals that suggest the relationship is statistically significant.
+
+## Calculations and Tests
+![image](https://github.com/user-attachments/assets/758f2302-b8f6-41d8-acaf-23ad05ec4031)
+
+![image](https://github.com/user-attachments/assets/cddc043d-551c-4c3d-ab15-d02b34f1ad19)
+
+![image](https://github.com/user-attachments/assets/6f7b5b49-85cb-4edc-9f33-ad49e7a1dc01)
+
+![image](https://github.com/user-attachments/assets/17d87f3d-42b7-4506-988a-6c5aca954bee)
+
+![image](https://github.com/user-attachments/assets/a18f0b35-cb4f-44ee-b3e0-7cdb769eadf2)
+
+![image](https://github.com/user-attachments/assets/619f97d2-7c9b-494a-9abe-716e88c09d3f)
+
 
 
