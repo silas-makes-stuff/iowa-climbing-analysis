@@ -42,7 +42,11 @@ Data cleaning, data visualization, Exploratory data analysis (EDA)
 - Average route height was 41ft.
 - ANOVA revealed a statistically significant relationship between Route Quality and Route Difficulty (p = 0.0066), although the model explains only a small portion of the variance (R² = 0.053). The coefficients for the model are estimated with 95% confidence intervals that suggest the relationship is statistically significant.
 
-## Calculations and Tests
+## Calculations
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 ![image](https://github.com/user-attachments/assets/758f2302-b8f6-41d8-acaf-23ad05ec4031)
 
 ![image](https://github.com/user-attachments/assets/cddc043d-551c-4c3d-ab15-d02b34f1ad19)
