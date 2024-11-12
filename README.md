@@ -5,11 +5,13 @@ Examined
 1. What are the average quality and difficulty ratings of routes by location? What are the average quality and difficulty ratings by type of route (sport, trad, TR)?
 2. Where is the best location for beginner, intermediate, and advanced climbers to find the most amount of high quality routes? At which climbing walls are they located?
 
-## **Description**
+## Description
 This project uses data sourced from Mountain Project to explore the available rock climbing routes in Iowa, their types, subtypes, wall locations, safety ratings, and average climber reviews. The analysis aimed to extract relevant insights on climb quality, grade, and location. Key tasks included data extraction, data cleaning and refining, exploratory data analysis, and data visualization. 
 
+## Skills
+Data cleaning, data visualization, Exploratory data analysis (EDA)
+
 # Cleaning and Refining
-Note - I had initially kept track of data cleaning and changes using comments. These were deleted when program crashed, along with sheet containing extracted bouldering data. Lesson learned! In the future I will be keeping a separate copy of cleaning/refinding notes.
 
 ## Blanks, Duplicates, Spaces, Formatting
 - **Filtered** for blank cells and removed rows with missing data.
@@ -33,8 +35,9 @@ Note - I had initially kept track of data cleaning and changes using comments. T
 ![image](https://github.com/user-attachments/assets/2fcf326c-2ae1-407e-b16c-4a38eecd3c9b)
 
 # Exploratory Data Analysis (EDA)
+I started with a general EDA of the key components of the data. Results are as follows:
 ![image](https://github.com/user-attachments/assets/0146cb02-6fda-4416-8d65-0af41a56ed79) 
 
-![image](https://github.com/user-attachments/assets/c5ccd7f1-26a4-4588-b363-aa07c5690efc)
+![image](https://github.com/user-attachments/assets/3b34fc23-6ea0-4bf0-a913-ebc489f39a18)
 
 
