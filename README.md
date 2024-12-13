@@ -86,9 +86,16 @@ Excel, Tableau
   # Dashboards
 
   ## Excel
-  Excel dashboard can be accessed [here](Climbing_Iowa_Dashboard.xlsx). 
+  Interactive Excel dashboard can be accessed [here](Climbing_Iowa_Dashboard.xlsx). 
+
+  ![image](https://github.com/user-attachments/assets/13b3f854-7b72-400f-9474-48ce343f8a2b)
+
 
   ## Tableau
-  Tableau dashboard can be accessed [here](https://public.tableau.com/shared/5FDZSPRFP?:display_count=n&:origin=viz_share_link) or [here as a .twbx](https://public.tableau.com/shared/HPMX24W5Z?:display_count=n&:origin=viz_share_link) 
+  Interactive Tableau dashboard can be accessed [here](https://public.tableau.com/shared/5FDZSPRFP?:display_count=n&:origin=viz_share_link) or [here as a .twbx](https://public.tableau.com/shared/HPMX24W5Z?:display_count=n&:origin=viz_share_link) 
 
+  ![IowaClimbingDashboard](https://github.com/user-attachments/assets/a4598dcd-47ad-4025-ab82-b67e05ac1a99)
 
+  ### Uses: 
+  - Easily plan your Iowa climbing trip by exploring density map and city list to find high quality routes.
+  - Filter for routes that meet your skill level, safety requirements, and route type preferences.
