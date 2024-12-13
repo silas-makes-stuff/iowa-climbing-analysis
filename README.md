@@ -6,13 +6,13 @@ Examined
 2. Where is the best location for beginner, intermediate, and advanced climbers to find the most amount of high quality routes? At which climbing walls are they located?
 
 ## Description
-This project uses data sourced from Mountain Project to explore the available rock climbing routes in Iowa, their types, subtypes, wall locations, safety ratings, and average climber reviews. The analysis aimed to extract relevant insights on climb quality, grade, and location. Key tasks included data extraction, data cleaning and refining, exploratory data analysis, and data visualization. 
+This project uses data sourced from Mountain Project to explore the available rock climbing routes in Iowa, their types, subtypes, wall locations, safety ratings, and average climber reviews. The analysis aimed to extract relevant insights on climb quality, grade, and location. Key tasks included data extraction, data cleaning and refining, exploratory data analysis, and data visualization using Excel and Tableau. 
 
 ## Skills
 Data cleaning, data visualization, Exploratory data analysis (EDA)
 
 ## Technology
-Excel
+Excel, Tableau
 
 # Cleaning and Refining
 
@@ -82,3 +82,13 @@ Excel
   alt="The image is a scatter plot titled Difficulty/Quality with an R squared value of 0.0534. It displays the relationship between route quality (x-axis) and route difficulty (y-axis). The x-axis ranges from 0.0 to 4.5, representing route quality ratings. The y-axis ranges from 6 to 18, representing route difficulty levels. The data points are scattered, showing a weak positive trend. A dotted trend line is included, indicating a slight upward slope. The low value of 0.0534 suggests a weak correlation between difficulty and quality."
   width="500"
   height="300" />
+
+  # Dashboards
+
+  ## Excel
+  Excel dashboard can be accessed [here](https://pages.github.com/). 
+
+  ## Tableau
+  Tableau dashboard can be accessed [here]((https://public.tableau.com/shared/Z6ZFT7435?:display_count=n&:origin=viz_share_link)). 
+
+
