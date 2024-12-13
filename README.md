@@ -99,3 +99,7 @@ Excel, Tableau
   ### Uses: 
   - Easily plan your Iowa climbing trip by exploring density map and city list to find high quality routes.
   - Filter for routes that meet your skill level, safety requirements, and route type preferences.
+
+  # Reflections and Future Directions
+
+
