@@ -86,9 +86,9 @@ Excel, Tableau
   # Dashboards
 
   ## Excel
-  Excel dashboard can be accessed [here](https://pages.github.com/). 
+  Excel dashboard can be accessed [here](Climbing_Iowa_Dashboard.xlsx). 
 
   ## Tableau
-  Tableau dashboard can be accessed [here]((https://public.tableau.com/shared/Z6ZFT7435?:display_count=n&:origin=viz_share_link)). 
+  Tableau dashboard can be accessed [here](https://public.tableau.com/shared/5FDZSPRFP?:display_count=n&:origin=viz_share_link) or [here as a .twbx](https://public.tableau.com/shared/HPMX24W5Z?:display_count=n&:origin=viz_share_link) 
 
 
